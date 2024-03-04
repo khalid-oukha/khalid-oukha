@@ -18,7 +18,7 @@ Welcome aboard my cosmic journey through the web galaxy! I'm **Khalid Oukha**, a
 - 📖 Self-Learning Mage: Constantly absorbing new spells from the vast libraries of the internet.
 
 ## 🛤 Journey with Me
-- 🏰 [LinkedIn: khalid-oukha](#https://www.linkedin.com/in/khalid-oukha/) | 
+- 🏰 [LinkedIn: [khalid-oukha](https://www.linkedin.com/in/khalid-oukha/)](#) | 
 - 📧 Spell Mail: oukhakhalid@gmail.com
 
 Embark on this coding odyssey with me, as we explore uncharted territories, conquer challenges, and celebrate the magic of creation. Let's transform ideas into reality, one line of code at a time. 🌠
